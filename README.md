@@ -92,7 +92,7 @@ funcione tanto na plataforma web quanto na mobile
 ## Sprint 6 (29/11)
 
 - Ajustes de segurança no backend
-
+- [Configurações FreshDesk](https://drive.google.com/file/d/11kn0mzIQ4sdkydDiCHeTsi4K1i_do8be/view)
 
 # Tecnologias 
 
