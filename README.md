@@ -11,7 +11,7 @@
 
 </h2>
 
-## Chat Help Desk - Projeto Anova
+## Chat Help Desk - Projeto Integrador
 
 O objetivo do Projeto Integrador proposto pela instituição Fatec - Prof. Jessen Vidal é resolver um problema 
 de comunicação interna entre os colaboradores e usuários, representados pela empresa Anova Sistemas. 
@@ -92,6 +92,7 @@ funcione tanto na plataforma web quanto na mobile
 ## Sprint 6 (29/11)
 
 - Ajustes de segurança no backend
+- Implementação do histórico
 - [Configurações FreshDesk](https://drive.google.com/file/d/11kn0mzIQ4sdkydDiCHeTsi4K1i_do8be/view)
 
 # Tecnologias 
